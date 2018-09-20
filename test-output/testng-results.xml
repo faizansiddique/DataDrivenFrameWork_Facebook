@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17593" started-at="2018-09-19T21:57:44Z" finished-at="2018-09-19T21:58:02Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="9691" started-at="2018-09-19T21:57:44Z" finished-at="2018-09-19T21:57:54Z">
+      <class name="dd_tests.LoginTest">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:dd_tests.LoginTest@64485a47]" name="isSkip" is-config="true" duration-ms="12" started-at="2018-09-19T21:57:44Z" finished-at="2018-09-19T21:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:dd_tests.LoginTest@64485a47]" name="doLogin" duration-ms="9633" started-at="2018-09-19T21:57:44Z" data-provider="getData" finished-at="2018-09-19T21:57:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[faizan_f2@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nikamma4u]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+      </class> <!-- dd_tests.LoginTest -->
+    </test> <!-- Login Test -->
+    <test name="Profile Test" duration-ms="7549" started-at="2018-09-19T21:57:54Z" finished-at="2018-09-19T21:58:02Z">
+      <class name="dd_tests.profileTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:dd_tests.profileTest@fcd6521]" name="init" is-config="true" duration-ms="14924" started-at="2018-09-19T21:57:29Z" finished-at="2018-09-19T21:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:dd_tests.profileTest@fcd6521]" name="isSkip" is-config="true" duration-ms="3" started-at="2018-09-19T21:57:54Z" finished-at="2018-09-19T21:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="gotoProfile()[pri:0, instance:dd_tests.profileTest@fcd6521]" name="gotoProfile" duration-ms="7541" started-at="2018-09-19T21:57:54Z" finished-at="2018-09-19T21:58:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoProfile -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:dd_tests.profileTest@fcd6521]" name="QuitBrowser" is-config="true" duration-ms="8274" started-at="2018-09-19T21:58:02Z" finished-at="2018-09-19T21:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- dd_tests.profileTest -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+03:27:29,916 DEBUG devpinoyLogger:53 - Config file loaded
+03:27:29,923 DEBUG devpinoyLogger:58 - Object file loaded
+03:27:30,963 DEBUG devpinoyLogger:61 - Excel path loaded
+03:27:34,538 DEBUG devpinoyLogger:69 - loaded Chrome
+03:27:35,706  INFO devpinoyLogger:88 - Window get maximized successfully
+03:27:41,794  INFO devpinoyLogger:93 - Browser has been launched
+03:27:45,269 DEBUG devpinoyLogger:42 - Username given successfully
+03:27:45,459 DEBUG devpinoyLogger:46 - password added successfully
+03:27:54,489 DEBUG devpinoyLogger:50 - Click on login button successfully
+03:27:57,334 DEBUG devpinoyLogger:36 - Click on profile successfully
+03:27:58,739 DEBUG devpinoyLogger:47 - Timeline displayed successfully
+03:28:00,953 DEBUG devpinoyLogger:58 - About displayed successfully
+03:28:01,569 DEBUG devpinoyLogger:69 - Friends displayed successfully
+03:28:01,891 DEBUG devpinoyLogger:80 - Photos displayed successfully
+03:28:02,086 DEBUG devpinoyLogger:91 - Archive displayed successfully
+03:28:02,330 DEBUG devpinoyLogger:102 - More displayed successfully
+03:28:02,397 DEBUG devpinoyLogger:113 - Intro displayed successfully
+03:28:02,718  INFO devpinoyLogger:103 - Click on Navigation successfully
+03:28:07,909  INFO devpinoyLogger:112 - Click on logout successfully

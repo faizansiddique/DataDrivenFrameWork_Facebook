@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Profile Test(failed)">
+    <classes>
+      <class name="dd_tests.profileTest">
+        <methods>
+          <include name="gotoProfile"/>
+          <include name="init"/>
+          <include name="isSkip"/>
+          <include name="QuitBrowser"/>
+        </methods>
+      </class> <!-- dd_tests.profileTest -->
+    </classes>
+  </test> <!-- Profile Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
