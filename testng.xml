@@ -14,5 +14,17 @@
       <class name="dd_tests.profileTest"/>
     </classes>
   </test>
+  
+    <test name="TimeLine Test">
+    <classes>
+      <class name="dd_tests.timeLineTest"/>
+    </classes>
+  </test>
+  
+  <test name="About Test">
+    <classes>
+      <class name="dd_tests.aboutTest"/>
+    </classes>
+  </test>
    
 </suite> 
